@@ -1,13 +1,4 @@
-# QA Test Engineer Assignment
-
-#### Test for Camino Financial's QA Test Engineer Intern position.
-
-## Questions
-
-1. What is your favorite test framework and why?
-
-2. Given the following sample_account.py, please write a unit test suite for the class.
-
+# QA Assignment
 
 ## Answers
 #### 1.
@@ -17,4 +8,3 @@
 
 #### 2.
 >I spent a bit of time to review over Python, unittest with Python, and manual QA testing (on a surface-level). 
-
